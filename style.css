@@ -1,0 +1,23 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+:root {
+   --color-blue: #0819fa; 
+   --color-red: rgb(248, 5, 5);
+}
+
+.text-blue {color: var(--color-blue);}
+.text-red {color: var(--color-red);}
+
+.plataformas {
+    background: var(--color-red);
+    height: 50vh;
+    width: 98%;
+}
+
+.redes {
+    margin: 10px 20px;
+}
+
